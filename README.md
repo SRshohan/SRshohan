@@ -16,14 +16,27 @@ Here are some ideas to get you started:
 -->
 <h1 align="left">Hello There! 🥷🏽</h1>
 <div align="left">
+  <p>
   - 🔭 I’m currently working on ...
+  </p>
+   <p>
   - 🌱 I’m currently learning ...
+  </p>
+   <p>
   - 👯 I’m looking to collaborate on ...
+  </p>
+   <p>
   - 🤔 I’m looking for help with ...
+  </p>
+   <p>
   - 💬 Ask me about ...
+  </p>
+   <p>
   - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
+  </p>
+  <p>
   - ⚡ Fun fact: ...
+  </p>
 </div>
 
 
