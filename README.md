@@ -23,13 +23,9 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=SRshohan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SRshohan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
-
-<img align="right" height="50" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif"  />
-
-
-
+<div>
+  <img align="right" height="100" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif"  />
+</div>
 <div align="left">
   <a href="https://www.instagram.com/sr_the_sohan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -46,7 +42,7 @@ Here are some ideas to get you started:
 
 
 ###
-<div>
+<div align="left">
   <h> ⚒️ &nbsp;Tools Used and Learned</h2>
   <p align="left">
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
