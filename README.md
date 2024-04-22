@@ -39,16 +39,13 @@ Here are some ideas to get you started:
 </div>
 <div align="left">
   <p>
-  - 🔭 I’m currently working on ...
+  - 🔭 I’m an aspiring Software Engineer.
   </p>
    <p>
-  - 🤔 I’m looking for help with ...
-  </p>
-   <p>
-  - 📫 How to reach me: ...
+  - 🔭 I’m currently working on several projects!
   </p>
   <p>
-  - ⚡ Fun fact: ...
+  - ⚡ Fun fact: Code Ninja
   </p>
 </div>
 
