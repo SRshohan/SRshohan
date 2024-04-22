@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 ###
-<div align="left">
+<div align="center">
   <h> ⚒️ &nbsp;Tools Used and Learned</h2>
   <p align="left">
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
