@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=SRshohan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SRshohan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<div>
+<div align="right">
   <img align="right" height="100" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif"  />
 </div>
 <div align="left">
@@ -37,9 +37,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<div align="right">
-  <img align="right" height="100" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif"  />
-</div
 ###
 
 
