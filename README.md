@@ -15,9 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hello There! 🥷🏽</h1>
-
-
-<h2 align="left">Hello There! 🥷🏽</h2>
+<div align="left">
+  <p>
+  - 🔭 I’m an aspiring Software Engineer.
+  </p>
+   <p>
+  - 🔭 I’m currently working on several projects!
+  </p>
+  <p>
+  - ⚡ Fun fact: Code Ninja
+  </p>
+</div>
 
 ###
 
@@ -46,17 +54,7 @@ Here are some ideas to get you started:
     </a>
   </p>
 </div>
-<div align="left">
-  <p>
-  - 🔭 I’m an aspiring Software Engineer.
-  </p>
-   <p>
-  - 🔭 I’m currently working on several projects!
-  </p>
-  <p>
-  - ⚡ Fun fact: Code Ninja
-  </p>
-</div>
+
 
 <img src="https://raw.githubusercontent.com/SRshohan/SRshohan/output/snake.svg" alt="Snake animation" />
 
