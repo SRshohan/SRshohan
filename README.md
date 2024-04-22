@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/sr_the_sohan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 
-<div padding= 50px>
+<div>
   <h align= "left"> ⚒️ &nbsp;Tools Used and Learned</h2>
   <p align="center">
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
