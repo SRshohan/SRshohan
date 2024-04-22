@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 ### Hi there 👋
@@ -15,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hello There! 🥷🏽</h2>
+<h1 align="left">Hello There! 🥷🏽</h1>
 
-###
 
-<div align="center">
+
+<div align="center" padding= 50px>
   <img src="https://streak-stats.demolab.com?user=SRshohan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SRshohan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<div align="right">
+<div align="right" padding= 50px>
   <img align="right" height="100" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif"  />
 </div>
 <div align="left">
@@ -37,11 +36,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-###
 
 
-###
 
+
+<div padding= 50px>
   <h align= "left"> ⚒️ &nbsp;Tools Used and Learned</h2>
   <p align="center">
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -67,4 +66,4 @@ Here are some ideas to get you started:
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </p>
-
+</div>
