@@ -44,12 +44,9 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SRshohan/SRshohan/output/snake.svg" alt="Snake animation" />
 
 ###
-<h2> ⚒️ &nbsp;Tools Used and Learned</h2>
+<h> ⚒️ &nbsp;Tools Used and Learned</h2>
 <p align="left">
  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
