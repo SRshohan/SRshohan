@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif"  />
+<img align="right" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif"  />
 
 ###
 
