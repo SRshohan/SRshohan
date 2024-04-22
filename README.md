@@ -52,6 +52,9 @@ Here are some ideas to get you started:
   </p>
 </div>
 
+<img src="https://raw.githubusercontent.com/SRshohan/SRshohan/output/snake.svg" alt="Snake animation" />
+
+
 
 
 
