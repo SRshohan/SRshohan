@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <h1 align="left">Hello There! 🥷🏽</h1>
 <div align="left">
   <p>
-  - 🔭 I’m an aspiring Software Engineer.
+  - 🔭 Aspiring Software Engineer on a mission to build innovative and impactful projects.
   </p>
    <p>
-  - 🔭 I’m currently working on several projects!
+  - 🚀 Currently juggling several exciting ventures and loving the challenge!
   </p>
   <p>
   - ⚡ Fun fact: Code Ninja
